@@ -1,0 +1,14 @@
+uuid: ad16b291-bdf5-4b2d-a6a6-3af081ee0e63
+name: pantheon-d8-composer-project1
+mail: pixelota@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
